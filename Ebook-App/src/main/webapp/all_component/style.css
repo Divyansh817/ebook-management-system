@@ -1,0 +1,37 @@
+.bg-custom{
+	background-color: #00838f;
+}
+.custom-search-btn {
+    padding: 6px 20px;
+    font-weight: 600;
+    border: 2px solid #004080;
+    background-color: #007bff;
+    color: white;
+    transition: all 0.3s ease;
+    border-radius: 5px;
+    display: inline-flex;
+    align-items: center;
+}
+.custom-search-btn:hover {
+    background-color: #0056b3;
+    color: white;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+    transform: scale(1.05);
+}
+
+
+.navbar .nav-item:hover .nav-link {
+	background-color: #b0bec5;
+	color: #006064;
+	border-radius: 17px;
+}
+.btn-custom {
+    background-color: #006064;
+    color: #ffffff;
+    padding: 6px 10px;
+    border-radius: 6px;
+}
+
+.crd-ho:hover {
+	background-color: #b5b5b5;
+}
